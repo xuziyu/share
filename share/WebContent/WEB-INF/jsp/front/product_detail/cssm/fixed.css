@@ -1,0 +1,17 @@
+.fixed div{
+	border-radius: 2px;
+	background-color: #7A6E6E;
+	margin-bottom: 2px;
+}
+
+.fixed div:hover{
+	background-color:#c91423;
+}
+.fixed i{
+	font-size: 29px;
+	color: #FFFDEF;
+}
+
+.fixed a{
+	text-decoration:none;
+}

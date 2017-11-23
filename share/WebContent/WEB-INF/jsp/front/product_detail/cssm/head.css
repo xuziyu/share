@@ -1,0 +1,13 @@
+.head{
+	color:#666666;
+	height: 10px;
+}
+.head a{
+	text-decoration:none;
+	cursor:pointer;
+	color:#666666;
+	font-size: 13px;
+}
+.head a:hover{
+	color:#c91423;
+}

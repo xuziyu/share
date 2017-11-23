@@ -1,0 +1,33 @@
+.guidance a{
+	text-decoration:none;
+	color: #666666;
+	font-size: 13px;
+	margin-left: 5px;
+}
+.guidance a:hover{
+	color:#c91423;
+}
+.g2{
+	background-color:#4D9357;
+}
+.g2:hover{
+	background-color:#00883d;
+} 
+.g2 a{
+	text-decoration:none;
+	color: #FFFFFF;
+	font-size: 13px;
+	padding:5px;
+	padding-bottom: 15px;
+	display:inline-block;
+}
+.g2 span{
+	font-size: 15px;
+	padding:5px;
+	padding-top: 10px;
+	font-weight: bold;
+	display:inline-block;
+}
+.g2 a:hover{
+	text-decoration:underline;
+}

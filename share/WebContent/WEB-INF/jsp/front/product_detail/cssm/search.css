@@ -1,0 +1,11 @@
+.search{
+	float:left;
+}
+.search a{
+	text-decoration:none;
+	color: #666666;
+	font-size: 13px;
+}
+.search a:hover{
+	color:#c91423;
+}

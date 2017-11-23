@@ -1,0 +1,68 @@
+a{
+	text-decoration: none;
+}
+.cart_chanpin{
+	word-wrap: break-word;
+	font-size:12px;
+	margin-bottom:10px;
+	width:1200px;
+	background-color: #FFF4E8;
+}
+.cart_chanpin img{
+	position: relative;
+  	left: 56px;
+  	top: 9px;
+	width:80px;
+	height:80px;
+}
+.cart_chanpin .mingzi{
+	position: relative;
+  	left: 63px;
+  	top: -8px;
+}
+.cart_chanpin a{
+	text-decoration: none;
+}
+.cart_chanpin .mingzi:HOVER {
+	color: red;
+}
+.cart_chanpin span{
+	
+}
+.cart_chanpin .yanse{
+	position: relative;
+  	left: 120px;
+  	top: -55px;
+}
+.cart_chanpin .shicun{
+	position: relative;
+  	left: 66px;
+  	top: -34px;
+}
+.cart_chanpin .jiage{
+	position: relative;
+  	left: 300px;
+  	top: -38px;
+}
+.cart_chanpin .shuliang{
+	position: relative;
+  	left: 329px;
+  	top: -36px;
+	width:71px;
+}
+.cart_chanpin .zongjiage{
+	position: relative;
+  	left: 414px;
+  	top: -36px;
+}
+.cart_chanpin .shanchu{
+	position: relative;
+  	left: 516px;
+  	top: -36px;
+}
+.cart_chanpin .shanchu:HOVER {
+	color:red;
+}
+#daohang .daohang_a:HOVER {
+	color: red;
+}

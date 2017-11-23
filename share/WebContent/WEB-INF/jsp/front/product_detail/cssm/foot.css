@@ -1,0 +1,80 @@
+.foot span{
+	color: #666666;
+	display: inline-block;
+	text-align: center;
+	width: 113px;
+	font-size: 13px;
+}
+
+.f2 a{
+	display: block;
+	text-decoration: none;
+	color: #666666;
+	font-size: 13px;
+	padding: 5px;
+}
+.f2 a:hover{
+	color: #c91423;
+}
+.f2 div{
+	float: left;
+	padding-left:15px;
+	padding-right:5px;
+	width: 100px;
+	height: 180px;
+	border-left:1px dashed #666666 ;
+}
+.f2:after{	
+    content:".";
+    clear:both;
+    display:block;
+    height:0;
+    overflow:hidden;
+    visibility:hidden;
+}
+.f3 a{
+	display: block;
+	text-decoration: none;
+	color: #666666;
+	font-size: 12px;
+	padding: 5px;
+}
+.f3 a:hover{
+	color: #c91423;
+}
+.f3 span{
+	color: #666666;
+	font-weight:bold;
+	margin: 5px;
+	padding-bottom: 5px;
+	display:block;
+}
+.f3 div{
+	float: left;
+	width: 275px;
+}
+.f3:after{	
+    content:".";
+    clear:both;
+    display:block;
+    height:0;
+    overflow:hidden;
+    visibility:hidden;
+}
+.f4{
+	text-align: center; 
+	color: #666666;
+	margin: 5px;
+}
+.f4 a{
+	text-decoration: none;
+	color: #666666;
+	font-size: 13px;
+}
+.f4 a:hover{
+	color: #c91423;
+}
+.f4 span{
+	color: #666666;
+	font-size: 13px;
+}
